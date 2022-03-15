@@ -1,3 +1,3 @@
-[correro]](./correro.md) | [contacto de emergencia](./contactodeemergencia.md) | [numero de casa](./numerodecasa.md) |
+[correro](./correo.md) | [contacto de emergencia](./contactodeemergencia.md) | [numero de casa](./numerodecasa.md) |
 
 
