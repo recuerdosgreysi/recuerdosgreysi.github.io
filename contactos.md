@@ -20,4 +20,6 @@
   <input type="text" id="name" name="name" valve=" Numero"><br>
   </form>
   
-<p> Ch
+La fecha de envio sera 6 dias despues de 5 dias y en envio sera gratis apartir de $200 peaoa en toda la republica mexicana 
+
+  ## Recuerdos Greysi
