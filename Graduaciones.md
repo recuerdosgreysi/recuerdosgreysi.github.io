@@ -1,4 +1,4 @@
-[bodas](./bodas.md) | [Bautizos](./bautizos.md) | [Graduaciones](./graduaciones.md) | [XV](./xv.md) | [contactos](./contactos.md)
+[bodas](./bodas.md) | [Bautizos](./bautizos.md) | [Graduaciones](./graduaciones.md) | [XV](./xv.md) | [contactos](./contactos.md) |
 
 ## Graduaciones 
 Encontraras culaquier tipo de recuerdos que seran accesibles para ti que van de mayoreo a menudeo dependiendo de el diseño, tamaño, colores que seran de tu agrado.
