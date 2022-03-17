@@ -12,5 +12,8 @@
   <input type="text" id="name" name="name" valve="Tus nombres"><br>
   <label for="lname">Apelldios:</label><br>
   <input type="text" id="lname" name="lname" valve="Apelldios"><br>
+  <label for="name">Correo Electronico:</label><br>
+  <input type="text" id="name" name="name" valve="Pon tu correo"><br>
   </form>
   
+<p> Ch
