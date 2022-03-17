@@ -18,6 +18,9 @@
   <input type="text" id="name" name="name" valve="Pon tu codigo postal"><br>
   <label for="name">Direccion:</label><br>
   <input type="text" id="name" name="name" valve=" Numero"><br>
+  
+  <label for="name">Producto solicitado:</label><br>
+  <input type="text" id="name" name="name" valve="Producto solicitado"><br>
   </form>
   
 La fecha de envio sera 6 dias despues de 5 dias y en envio sera gratis apartir de $200 peaoa en toda la republica mexicana 
