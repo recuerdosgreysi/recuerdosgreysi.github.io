@@ -7,7 +7,7 @@
 ![wa link_d27xjy](https://user-images.githubusercontent.com/100456385/158891318-095b4408-fc0e-4f06-b19b-0f928187ad29.png)
 
 
-<form>
+<form action="/action_page.php">
   <label for="name">Nombres:</label><br>
   <input type="text" id="name" name="name" valve="Tus nombres"><br>
   <label for="lname">Apelldios:</label><br>
@@ -21,6 +21,7 @@
   
   <label for="name">Producto solicitado:</label><br>
   <input type="text" id="name" name="name" valve="Producto solicitado"><br>
+  <input type="submit" value="Submit">
   </form>
   
 La fecha de envio sera 6 dias despues de 5 dias y en envio sera gratis apartir de $200 peaoa en toda la republica mexicana 
