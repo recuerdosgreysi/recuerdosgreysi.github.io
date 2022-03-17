@@ -1,3 +1,4 @@
+[bodas](./bodas.md) | [Bautizos](./bautizos.md) | [Graduaciones](./graduaciones.md) | [XV](./xv.md) | 
 
 ## Recuerdos de Bodas
 Aqui encontraras todo tipo de recuerdos para tu boda te ofrecemos recuerdos útiles y distinguidos de acuerdo al estilo de tu celebración y presupuesto. Con gusto te daremos atención personal, tenemos entrega inmediata en modelos disponibles.
