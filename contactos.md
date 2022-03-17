@@ -21,7 +21,7 @@
   
   <label for="name">Producto solicitado:</label><br>
   <input type="text" id="name" name="name" valve="Producto solicitado"><br>
-  <input type="submit" value="Submit">
+  <input type="submit" value="Enviar">
   </form>
   
 La fecha de envio sera 6 dias despues de 5 dias y en envio sera gratis apartir de $200 peaoa en toda la republica mexicana 
