@@ -1,5 +1,15 @@
-[bodas](./bodas.md) | [Bautizos](./bautizos.md) | [Graduaciones](./graduaciones.md) | [XV](./xv.md) | [contactos](./contactos.md) 
+[bodas](./bodas.md) | [Bautizos](./bautizos.md) | [Graduaciones](./graduaciones.md) | [XV](./xv.md) | [contactos](./contactos.md) |
 
 | Nombre de la Persona | Telefono | Fiesta | Recuerdo | 
 | --- | --- | --- | --- |
 | Pablo Juarez | 23232 | Graduacion | Termo |
+![wa link_d27xjy](https://user-images.githubusercontent.com/100456385/158891318-095b4408-fc0e-4f06-b19b-0f928187ad29.png)
+
+
+<form>
+  <label for="name">Nombres:</label><br>
+  <input type="text" id="name" name="name" valve="Tus nombres"><br>
+  <label for="lname">Apelldios:</label><br>
+  <input type="text" id="lname" name="lname" valve="Apelldios"><br>
+  </form>
+  
