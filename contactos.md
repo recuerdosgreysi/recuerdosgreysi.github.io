@@ -14,6 +14,10 @@
   <input type="text" id="lname" name="lname" valve="Apelldios"><br>
   <label for="name">Correo Electronico:</label><br>
   <input type="text" id="name" name="name" valve="Pon tu correo"><br>
+  <label for="name">Codigo postal:</label><br>
+  <input type="text" id="name" name="name" valve="Pon tu codigo postal"><br>
+  <label for="name">Direccion:</label><br>
+  <input type="text" id="name" name="name" valve=" Numero"><br>
   </form>
   
 <p> Ch
