@@ -1,1 +1,4 @@
-[contactos.md](./contactos.md)|[correro](./correo.md) | [contacto de emergencia](./contactodeemergencia.md) | [numero de casa](./numerodecasa.md) 
+
+| Nombre de la Persona | Telefono | Fiesta | Recuerdo | 
+| --- | --- | --- | --- |
+| Pablo Juarez | 23232 | Graduacion | Termo |
