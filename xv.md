@@ -1,4 +1,4 @@
-[bodas](./bodas.md) | [Bautizos](./bautizos.md) | [Graduaciones](./graduaciones.md) | [XV](./xv.md) | [contactos](./contactos.md)
+[bodas](./bodas.md) | [Bautizos](./bautizos.md) | [Graduaciones](./graduaciones.md) | [XV](./xv.md) | [contactos](./contactos.md) |
 
 ## XV
 Aqui encontraras todo tipo de diseños para tu gran fiesta de ensueño que seran grandiosos para ti y tus invitados solo escoge, pide y lo entendras.
