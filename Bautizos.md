@@ -1,4 +1,4 @@
-[bodas](./bodas.md) | [Bautizos](./bautizos.md) | [Graduaciones](./graduaciones.md) | [XV](./xv.md) | [contactos](./contactos.md)
+[bodas](./bodas.md) | [Bautizos](./bautizos.md) | [Graduaciones](./graduaciones.md) | [XV](./xv.md) | [contactos](./contactos.md) |
 
 ## Recuerdos para Bautizos
 Entraras todo tipo de recuerdos para tu bautizo hay tamaños, formas, diseños, colores de todo tipo.
