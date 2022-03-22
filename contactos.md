@@ -7,7 +7,7 @@
 ![wa link_d27xjy](https://user-images.githubusercontent.com/100456385/158891318-095b4408-fc0e-4f06-b19b-0f928187ad29.png)
 
 
-<form action="/action_page.php">
+<form action="/action_page.php" method-"post">
   <label for="name">Nombres:</label><br>
   <input type="text" id="name" name="name" valve="Tus nombres"><br>
   <label for="lname">Apelldios:</label><br>
@@ -23,7 +23,7 @@
   <input type="submit" value="Enviar">
      </form>
      
-<form action="/action_page.php">
+<form action="/action_page.php" method-"post">
   <label for="birthday">Birthday:</label>
   <input type="date" id="birthday" name="birthday">
   <input type="submit" value="Enviar">
