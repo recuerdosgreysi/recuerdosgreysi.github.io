@@ -19,11 +19,10 @@
   <label for="name">Direccion:</label><br>
   <input type="text" id="name" name="name" valve=" Numero"><br>
   <label for="name">Producto solicitado:</label><br>
-   </form>
   <input type="text" id="name" name="name" valve="Producto solicitado"><br>
   <input type="submit" value="Enviar">
   form action="/action_page.php">
-  
+     </form>
  
  <label for="birthday">Birthday:</label>
   <input type="date" id="birthday" name="birthday">
