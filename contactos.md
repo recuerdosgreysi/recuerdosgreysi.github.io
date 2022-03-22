@@ -26,8 +26,9 @@
  <label for="birthday">Birthday:</label>
   <input type="date" id="birthday" name="birthday">
   <input type="Enviar" value="Enviar">
+     </form>
   
-  
+
 La fecha de envio sera 6 dias despues de 5 dias y en envio sera gratis apartir de $200 peaoa en toda la republica mexicana 
 
   Recuerdos Greysi
