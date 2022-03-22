@@ -19,9 +19,9 @@
   <label for="name">Direccion:</label><br>
   <input type="text" id="name" name="name" valve=" Numero"><br>
    </form>
-  
   <label for="name">Producto solicitado:</label><br>
-  <input type="text" id="name" name="name" valve="Producto solicitado"><br>
+ 
+ <input type="text" id="name" name="name" valve="Producto solicitado"><br>
   <input type="submit" value="Enviar">
   form action="/action_page.php">
   <label for="birthday">Birthday:</label>
