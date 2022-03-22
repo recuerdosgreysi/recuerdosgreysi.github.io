@@ -21,7 +21,6 @@
   <label for="name">Producto solicitado:</label><br>
   <input type="text" id="name" name="name" valve="Producto solicitado"><br>
   <input type="submit" value="Enviar">
-  form action="/action_page.php">
      </form>
  
  <label for="birthday">Birthday:</label>
