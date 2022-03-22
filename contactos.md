@@ -22,12 +22,12 @@
   <input type="text" id="name" name="name" valve="Producto solicitado"><br>
   <input type="submit" value="Enviar">
      </form>
- 
- <label for="birthday">Birthday:</label>
+     
+  <form action="/action_page.php">
+  <label for="birthday">Birthday:</label>
   <input type="date" id="birthday" name="birthday">
   <input type="Enviar" value="Enviar">
-     </form>
-  
+  </form>
 
 La fecha de envio sera 6 dias despues de 5 dias y en envio sera gratis apartir de $200 peaoa en toda la republica mexicana 
 
