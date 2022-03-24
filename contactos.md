@@ -7,7 +7,7 @@
 ![wa link_d27xjy](https://user-images.githubusercontent.com/100456385/158891318-095b4408-fc0e-4f06-b19b-0f928187ad29.png)
 
 
-<form action="https://formspree.io/f/xgedzjo" method="post">
+<form action="https://formspree.io/f/xgedzgjo" method="post">
   <label for="name">Nombres:</label><br>
   <input type="text" id="name" name="name" valve="Tus nombres"><br>
   <label for="lname">Apelldios:</label><br>
