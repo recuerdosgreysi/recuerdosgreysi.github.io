@@ -21,9 +21,7 @@
   <label for="name">Producto solicitado:</label><br>
   <input type="text" id="name" name="name" valve="Producto solicitado"><br>
   <input type="submit" value="Enviar">
-  <label for="birthday">Birthday:</label>
-  <input type="date" id="birthday" name="birthday">
-  <input type="submit" value="Enviar">
+  
   </form>
   
 
