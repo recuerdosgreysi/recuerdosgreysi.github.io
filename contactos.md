@@ -27,4 +27,4 @@
 
 La fecha de envio sera 6 dias despues de 5 dias y en envio sera gratis apartir de $200 peaoa en toda la republica mexicana 
 
-  Recuerdos Greysi
+  https://goo.gl/maps/nGuVd5Ls1pPq9SKX8
